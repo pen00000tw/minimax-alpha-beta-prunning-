@@ -1,0 +1,18 @@
+c:\users\kuanmin\documents\visual studio 2013\Projects\minimax\minimax\bin\Debug\minimax.exe.config
+C:\Users\Kuanmin\documents\visual studio 2013\Projects\minimax\minimax\bin\Debug\minimax.exe
+C:\Users\Kuanmin\documents\visual studio 2013\Projects\minimax\minimax\bin\Debug\minimax.pdb
+C:\Users\Kuanmin\documents\visual studio 2013\Projects\minimax\minimax\obj\Debug\minimax.csprojResolveAssemblyReference.cache
+C:\Users\Kuanmin\documents\visual studio 2013\Projects\minimax\minimax\obj\Debug\minimax.Form1.resources
+C:\Users\Kuanmin\documents\visual studio 2013\Projects\minimax\minimax\obj\Debug\minimax.Properties.Resources.resources
+C:\Users\Kuanmin\documents\visual studio 2013\Projects\minimax\minimax\obj\Debug\minimax.csproj.GenerateResource.Cache
+C:\Users\Kuanmin\documents\visual studio 2013\Projects\minimax\minimax\obj\Debug\minimax.exe
+C:\Users\Kuanmin\documents\visual studio 2013\Projects\minimax\minimax\obj\Debug\minimax.pdb
+D:\人工智慧作業\minimax\minimax\bin\Debug\minimax.exe.config
+D:\人工智慧作業\minimax\minimax\obj\Debug\minimax.exe
+D:\人工智慧作業\minimax\minimax\obj\Debug\minimax.pdb
+D:\人工智慧作業\minimax\minimax\bin\Debug\minimax.exe
+D:\人工智慧作業\minimax\minimax\bin\Debug\minimax.pdb
+D:\人工智慧作業\minimax\minimax\obj\Debug\minimax.csprojResolveAssemblyReference.cache
+D:\人工智慧作業\minimax\minimax\obj\Debug\minimax.Form1.resources
+D:\人工智慧作業\minimax\minimax\obj\Debug\minimax.Properties.Resources.resources
+D:\人工智慧作業\minimax\minimax\obj\Debug\minimax.csproj.GenerateResource.Cache
